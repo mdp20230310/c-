@@ -1,2 +1,2 @@
-# c-
-《C++ Primer Plus》
+# c++
+《C++ Primer Plus》第6版
